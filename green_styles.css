@@ -1,0 +1,158 @@
+@charset "utf-8";
+header.row h2 {
+	color: #fcbc12;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 350%;
+	text-align: center;
+	text-shadow: 0px 5px 5px #030303;
+}
+.logoyellow {
+	color: #fcbc12;
+}
+header.row p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	text-shadow: 0px 3px 5px #fcbc12;
+	letter-spacing: 0.5px;
+	color: #030303;
+	line-height: normal;
+}
+header.row {
+	padding: 20px 0px;
+	background-size: 23% 80%;
+	background-repeat: no-repeat;
+	background-position: 7% 46%;
+	color: #ECD018;
+	background-image: url(New-Hope-LOGO.jpg);
+}
+nav.row .navbar.navbar-default {
+	background-color: #030303;
+	background-image: -webkit-linear-gradient(270deg,rgba(168,164,164,1.00) 0.52%,rgba(67,65,65,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(168,164,164,1.00) 0.52%,rgba(67,65,65,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(168,164,164,1.00) 0.52%,rgba(67,65,65,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(168,164,164,1.00) 0.52%,rgba(67,65,65,1.00) 100%);
+	border-right-style: double;
+	border-right-color: #000000;
+}
+body p {
+}
+
+
+.navbar.navbar-default .container-fluid #defaultNavbar1 {
+}
+nav.row.nav.navbar-nav> li> a:link  ,nav.row.nav.navbar-nav> li> a:visited{
+	border-top: solid 1px #OAE;
+	border-right: solid 1px #037;
+	border-bottom: solid 1px #037;
+	border-left: solid 1px #OAE;
+	color: #FFFFCC;
+}
+.nav.navbar-nav li a: hover {
+	background-image: -webkit-linear-gradient(90deg,rgba(255,255,255,1.00) 62.18%,rgba(14,13,13,1.00) 89.64%);
+	background-image: -moz-linear-gradient(90deg,rgba(255,255,255,1.00) 62.18%,rgba(14,13,13,1.00) 89.64%);
+	background-image: -o-linear-gradient(90deg,rgba(255,255,255,1.00) 62.18%,rgba(14,13,13,1.00) 89.64%);
+	background-image: linear-gradient(0deg,rgba(255,255,255,1.00) 62.18%,rgba(14,13,13,1.00) 89.64%);
+	border-right: 5px solid #FCBC12;
+}
+
+nav.row {
+	border-top: 5px solid #FCBC12;
+
+}
+.nav.navbar-nav li a {
+	color: #FCBC12;
+	font-size: large;
+	text-align: left;
+	border-top: thick solid #FCBC12;
+	border-bottom-color: #FCBC12;
+	border-radius: 0;
+	border-right-color: #FCBC12;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+nav.row.navbar {
+	margin-bottom: 0px;
+}
+
+nav.row .nav.navbar-nav {
+	margin: 0px auto;
+	width: 715px;
+}
+.container-fluid #defaultNavbar1 .nav.navbar-nav {
+
+}
+article.row aside blockquote {
+}
+article.row aside blockquote p {
+	padding: 0px .5em;
+	margin: 0px 0px 5px 0px;
+	text-indent: -0.5em;
+	color: #fcbc12;
+}
+article.row aside blockquote cite {
+	padding: 0px 0px;
+	display: block;
+	font-style: italic;
+	text-align: right;
+}
+article.row aside {
+	margin: 1em 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 1em;
+	border-top: solid 5px #fcbc12;
+	border-bottom: solid 3px #fcbc12;
+}
+.sidebar2 {
+	padding: 0px 10px;
+	background-color: #fcbc12;
+}
+.sidebar2 h2 {
+	margin-top: 10px;
+	padding: 0px 10px;
+	margin-bottom: 5px;
+	font-size: 130%;
+	line-height: 1.4em;
+	color: #060606;
+}
+.sidebar2 p {
+	padding: 0px 10px;
+	margin-bottom: 5px;
+	line-height: 1.3em;
+}
+.container footer p {
+	padding: 1em opx;
+	background-color: #5c5a53;
+	color: #FCBC12;
+	background-image: -webkit-linear-gradient(270deg,rgba(154,151,151,1.00) 5.18%,rgba(79,77,77,1.00) 65.80%,rgba(66,64,64,1.00) 76.17%,rgba(37,35,35,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(154,151,151,1.00) 5.18%,rgba(79,77,77,1.00) 65.80%,rgba(66,64,64,1.00) 76.17%,rgba(37,35,35,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(154,151,151,1.00) 5.18%,rgba(79,77,77,1.00) 65.80%,rgba(66,64,64,1.00) 76.17%,rgba(37,35,35,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(154,151,151,1.00) 5.18%,rgba(79,77,77,1.00) 65.80%,rgba(66,64,64,1.00) 76.17%,rgba(37,35,35,1.00) 100%);
+}
+.row .col-sm-3.sidebar2 img {
+	display: inline;
+	left: 0px;
+	float: right;
+}
+.col-sm-3.sidebar2 h2 img {
+}
+
+
+img {
+	border: thin solid #000000;
+	display: inline;
+	-webkit-box-sizing: inherit;
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+	margin-left: 70px;
+	text-shadow: 0px 0px;
+}
+.flt_rgt {
+	float: right;
+	margin-left: 30px;
+	padding-left: 0px;
+}
+.flt_lft {
+}
